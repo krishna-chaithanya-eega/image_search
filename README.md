@@ -1,3 +1,5 @@
+check out preview of website here :  https://krishna-chaithanya-eega.github.io/image_search/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
